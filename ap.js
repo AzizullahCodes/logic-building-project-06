@@ -147,14 +147,4 @@
     // else if (money >= 6 && money <= 50) {console.log('Begger prays for the passing of him');}
     // else if (money > 50) {console.log('Begger  prays for good marks of him');}
     // else{console.log('Enter suitable content');}
-    //----------logic-building-small-project-11(Month days teller)---------------------------
-
-    //----------logic-building-small-project-11(Month days teller)---------------------------
-
-    //----------logic-building-small-project-11(Month days teller)---------------------------
-
-    //----------logic-building-small-project-11(Month days teller)---------------------------
-
-    //----------logic-building-small-project-11(Month days teller)---------------------------
-
-    //----------logic-building-small-project-11(Month days teller)---------------------------
+    
