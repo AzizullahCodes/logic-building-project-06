@@ -62,16 +62,20 @@
         // var pass = '@765';
         // if(userName === name || password === pass){console.log('Welcome to your account');}
         // else{console.log('Yours login information is wrong');}
+
 //----------logic-building-small-project-07(Number range checker))---------------------------
     //  var number = prompt('Enter  a number');
     //  if(number >= 10 && number <= 20){console.log('your number is inside range');}
     //  else{console.log('you number is out of range');}
      
+
 //----------logic-building-small-project-08(Discount Eligibility)---------------------------
         // var condition_1 = prompt('Enter the profession of user(student or else)');
         // var condition_2 = prompt('Enter the age of user'); 
         // if(condition_1 === 'student' && condition_2 > 60){console.log('You are eligible for discount');}
         // else{console.log('You are not eligible for discount');}
+
+
 //----------logic-building-small-project-09(pass or fail result checker)---------------------------
 // var enterEnglishMarks = +prompt('Enter your obtained marks in English');
 // var enterMathMarks = +prompt('Enter your obtained marks in Math');
@@ -82,6 +86,8 @@
 // var obtained_Marks = enterEnglishMarks + enterMathMarks + enterScienceMarks + enterUrduMarks;
 // if (obtained_Marks >= passing_Marks){console.log('Congratulation, you got ' + obtained_Marks + ' Marks and you have passed');}
 // else{console.log('Sorry,you have failed');}
+
+
 //----------logic-building-small-project-10(Room Entry Checker)---------------------------
 //  var ticket = prompt('Do you have ticket (answer yes or no)');
 //  var age    = prompt('Enter your age in number like "10,14,34,etc"');
@@ -141,7 +147,8 @@
 //  else if (percentage < 33){console.log('I think you are the most idle student of class and you are failed');}
 //  else {console.log('Enter proper content');}
 
-    //----------logic-building-small-project-11(pray if money is low or high)---------------------------
+
+    //----------logic-building-small-project-17(pray if money is low or high)---------------------------
     // var money = prompt('Enter money that you want to begger between 1 to 100');
     // if (money <= 5){console.log('Begger prays for the failing of him in examination');}
     // else if (money >= 6 && money <= 50) {console.log('Begger prays for the passing of him');}
